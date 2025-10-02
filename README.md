@@ -44,7 +44,7 @@ I enjoy building scalable services, optimizing databases, and deploying real-wor
 - Deployed on VPS with domain + HTTPS.  
 
 ### Other Projects
-- [OnlineQuizz API](https://github.com/nvlinhdev/onlinequizz) – Online Testing Web App Backend.  
+- [OnlineQuizz](https://github.com/nvlinhdev/onlinequizz) – Online Testing Web App Backend.  
 - More on my [repositories](https://github.com/nvlinhdev?tab=repositories).  
 
 ---
